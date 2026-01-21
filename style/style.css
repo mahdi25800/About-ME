@@ -3,61 +3,22 @@
 
 #font{
     font-family: "Montserrat Alternates","sans-serif";
-    color: gold;
-    font-size: 13rem;
-    position: relative;
-    bottom: 1100px;
-    left: 120px;
+    
 }
 .navber{
-    width: 5324px;
-    height: 150px;
-    background-color: rgb(42, 42, 105);
-    color: aliceblue;
-    font-size: 3rem;
+    width: 1600px;
+    height: 78px;
+    background-color: rgb(27, 27, 94);
+    color: white;
 }
-.nav-title{
+.about-me{
     position: relative;
     left: 120px;
     top: 20px;
 }
 span{
-    color: red;
-}
-.benner-image{
-    width: 1600%;
-    height: 600vh;
-    background-image: url("image/benneer.jpg");
-    background-repeat: no-repeat;
-}
-img{
-    width: 1200px;
-    height: 1200px;
-     border:1px solid gold;
-    border-radius: 100px;
-}
-.my-photo{
-    position: relative;
-    left: 3000px;
-    top: 200px;
-   
-    
-}
-.about-me{
-    width: 1500px;
-    height: 300px;
-    text-align: justify;
-    font-size: 4rem;
-    color: aliceblue;
-    position: relative;
-    bottom: 1200px;
-    left: 120px;
-     font-family: "Montserrat Alternates","sans-serif";
-}
-b{
-    color: gold;
-}
-.my-profile{
-    position: relative;
-    left: 500px;
+    background: linear-gradient(to right, #ff05ff, #1bffb3);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
 }
