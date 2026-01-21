@@ -9,6 +9,21 @@
     bottom: 1100px;
     left: 120px;
 }
+.navber{
+    width: 5324px;
+    height: 150px;
+    background-color: rgb(42, 42, 105);
+    color: aliceblue;
+    font-size: 3rem;
+}
+.nav-title{
+    position: relative;
+    left: 120px;
+    top: 20px;
+}
+span{
+    color: red;
+}
 .benner-image{
     width: 1600%;
     height: 600vh;
