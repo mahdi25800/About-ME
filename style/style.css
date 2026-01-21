@@ -12,9 +12,9 @@
     color: white;
 }
 .about-me{
-    position: relative;
+    position: absolute;
     left: 120px;
-    top: 20px;
+    top: 10px;
 }
 span{
     background: linear-gradient(to right, #ff05ff, #1bffb3);
@@ -30,9 +30,9 @@ span{
 img{
     width: 350px;
     height: 350px;
-    position: relative;
-    left: 39%;
-    top: 50px;
+    position: absolute;
+    left: 37.5%;
+    top: 140px;
 }
 .profile-about{
     color: white;
@@ -41,8 +41,8 @@ img{
     height: 200px;
     padding: 20px 20px;
     border-radius: 80px;
-    position: relative;
-    top: 100px;
+    position: absolute;
+    top: 550px;
     left: 480px;
     background-color:rgba(46, 35, 112, 0.493);
     box-shadow: 5px 2px 2px rgb(255, 253, 253);
