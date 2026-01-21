@@ -1,0 +1,48 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bungee&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Montserrat+Alternates:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+#font{
+    font-family: "Montserrat Alternates","sans-serif";
+    color: gold;
+    font-size: 13rem;
+    position: relative;
+    bottom: 1100px;
+    left: 120px;
+}
+.benner-image{
+    width: 1600%;
+    height: 600vh;
+    background-image: url("image/benneer.jpg");
+    background-repeat: no-repeat;
+}
+img{
+    width: 1200px;
+    height: 1200px;
+     border:1px solid gold;
+    border-radius: 100px;
+}
+.my-photo{
+    position: relative;
+    left: 3000px;
+    top: 200px;
+   
+    
+}
+.about-me{
+    width: 1500px;
+    height: 300px;
+    text-align: justify;
+    font-size: 4rem;
+    color: aliceblue;
+    position: relative;
+    bottom: 1200px;
+    left: 120px;
+     font-family: "Montserrat Alternates","sans-serif";
+}
+b{
+    color: gold;
+}
+.my-profile{
+    position: relative;
+    left: 500px;
+}
