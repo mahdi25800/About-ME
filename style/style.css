@@ -22,3 +22,43 @@ span{
     background-clip: text;
     color: transparent;
 }
+.banner-img{
+    width: 1600px;
+    height: 760px;
+    background-image: url("image/hero-bg.png");
+}
+img{
+    width: 350px;
+    height: 350px;
+    position: relative;
+    left: 39%;
+    top: 50px;
+}
+.profile-about{
+    color: white;
+    text-align: center;
+    width: 600px;
+    height: 200px;
+    padding: 20px 20px;
+    border-radius: 80px;
+    position: relative;
+    top: 100px;
+    left: 500px;
+    background-color:rgba(46, 35, 112, 0.493);
+    box-shadow: 5px 2px 2px rgb(255, 253, 253);
+}
+.name{
+    margin-bottom: 0.2px;
+    background: linear-gradient(to right, #fbff05, #85045e);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    font-weight: 900;
+    
+}
+.about-title{
+    
+}
+b{
+    color: #fbff05;
+}
