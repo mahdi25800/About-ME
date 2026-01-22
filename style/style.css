@@ -31,8 +31,10 @@ img{
     width: 350px;
     height: 350px;
     position: absolute;
-    left: 37.5%;
+    /* left: 37.5%;
+    top: 140px; */
     top: 140px;
+    transform: translate(178%);
 }
 .profile-about{
     color: white;
